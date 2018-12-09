@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="com.hexapixel.widgets.ribbon.alphatest.src">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpclient-4.3.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpclient-cache-4.3.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpcore-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpcore-4.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpcore-ab-4.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpcore-nio-4.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/httpmime-4.3.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/json.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/论文/taobaologin/com.hexapixel.widgets.ribbon.alphatest.src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
